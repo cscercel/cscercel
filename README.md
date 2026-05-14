@@ -1,25 +1,16 @@
 ## Hi, I'm Cristian Cercel
 
-<!--
-**cscercel/cscercel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🖥️ I've been working as an Actuary/Data Scientist hybrid for 4 years at TD Insurance
+### Work & Education
+- 🖥️ I've been working as an Actuary for 4 years at TD Insurance
 - 🔭 My job is to build, deploy and monitor ML models for P&C Insurance
-- 📜 I graduated from the Univerity of Montreal with a Bachelor's in Mathematics
+- 📜 Graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 - 🐍 I'm currently developping a Python library to better monitor models in production
+
+### Personal Projects
 - 🐹 I code all my personal projects in Go because I want to do more backend dev related stuff
 - 🌱 I am currently learning Typescript and Vue.js for web development
-- 🏐 My favorite hobby is playing volleyball (does anyone know how to teach a berner to be your personal setter?)
+
+### Fun Facts
+- 🏐 My favorite hobby is playing volleyball\n
+  -> Does anyone know how to teach a berner to be your personal setter?
 - 🎮 Actively waiting for the return of the Chaotic TCG
