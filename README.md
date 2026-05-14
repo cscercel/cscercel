@@ -7,7 +7,7 @@
 - 📜 Graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
-- 🐹 I code all my personal projects in Go because I want to do more backend dev related stuff
+- 🐹 I code all my personal projects in Go because I don't get to use it at work:(
 - 🌱 I am currently learning Typescript and React for web development
 
 #### Fun Facts
