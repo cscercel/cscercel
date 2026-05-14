@@ -8,7 +8,7 @@
 
 #### Personal Projects
 - 🐹 I code all my personal projects in Go because I want to do more backend dev related stuff
-- 🌱 I am currently learning Typescript and Vue.js for web development
+- 🌱 I am currently learning Typescript and React for web development
 
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
