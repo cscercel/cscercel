@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 🐍 I'm currently developping a Python library to better monitor models in production
 - 🐹 I code all my personal projects in Go because I want to do more backend dev related stuff
 - 🌱 I am currently learning Typescript and Vue.js for web development
-- 🏐 My favorite hobby is playing volleyball
+- 🏐 My favorite hobby is playing volleyball (does anyone know how to teach a berner to be your personal setter?)
+- 🎮 Actively waiting for the return of the Chaotic TCG
