@@ -13,4 +13,4 @@
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
 - 🏊 My 2nd favorite hobby is to go swim instead of becoming a gym bro
-- 🎮 Actively waiting for the return of the Chaotic TCG
+- 🎮 Actively waiting for the revival of the Chaotic TCG
