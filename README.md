@@ -12,5 +12,5 @@
 
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball\
-  -> Does anyone know how to teach a berner to be your personal setter?
+      -> Does anyone know how to teach a berner to be your personal setter?
 - 🎮 Actively waiting for the return of the Chaotic TCG
