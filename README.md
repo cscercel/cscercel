@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Cristian Cercel
 
 <!--
 **cscercel/cscercel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🖥️ I've been working as an Actuary/Data Scientist hybrid for 4 years at TD Insurance
+- 🔭 My job is to build, deploy and monitor ML models for P&C Insurance
+- 📜 I graduated from the Univerity of Montreal with a Bachelor's in Mathematics
+- 🐍 I'm currently developping a Python library to better monitor models in production
+- 🐹 I code all my personal projects in Go because I want to do more backend dev related stuff
+- 🌱 I am currently learning Typescript and Vue.js for web development
+- 🏐 My favorite hobby is playing volleyball
