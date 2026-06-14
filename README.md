@@ -3,14 +3,15 @@
 #### Work & Education
 - 🖥️ I've been working as an Actuary for 4 years at TD Insurance
 - 🔭 My job is to build, deploy and monitor ML models for P&C Insurance
-- 🐍 I'm currently developping a Python library to better monitor models in production
+- 📊 I'm currently developping a web app to better monitor models in production
 - 📜 Graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
-- 🐹 I code all my personal projects in Go because I don't get to use it at work:(
-- 🌱 I am currently learning Typescript and React for web development
+- 🐹 I love Go for backend stuff and I would like to try out Odin for game development
+- 🌱 I am currently learning Typescript and React for web development (frontend mostly but Node.js is also cool)
+- 🐉 I like building DnD related tools for my DM (he never asked for them)
 
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
 - 🏊 My 2nd favorite hobby is to go swim instead of becoming a gym bro
-- 🎮 Actively waiting for the revival of the Chaotic TCG
+- 🎮 Actively waiting for the revival of the Chaotic TCG (UPDATE October 2026!!!)
