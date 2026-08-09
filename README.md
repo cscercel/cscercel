@@ -8,7 +8,7 @@
 
 #### Personal Projects
 - 🐹 I love Go for backend stuff and I would like to try out Odin for game development
-- 🌱 I am currently learning Typescript (express.js) and HTMX for web development
+- 🌱 I am currently trying out Odin for Game Development
 - 🐉 I like building DnD related tools for my DM (he never asked for them)
 
 #### Fun Facts
