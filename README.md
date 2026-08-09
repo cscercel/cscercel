@@ -7,8 +7,8 @@
 - 📜 Graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
-- 🐹 I love Go for backend stuff and I would like to try out Odin for game development
-- 🌱 I am currently trying out Odin for Game Development
+- 🐹 I love using Go and I would like to eventually make some contributions to any Go-related projects
+- 🌱 I am currently learning about game dev with Odin
 - 🐉 I like building DnD related tools for my DM (he never asked for them)
 
 #### Fun Facts
