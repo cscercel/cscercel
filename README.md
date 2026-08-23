@@ -8,7 +8,7 @@
 
 #### Personal Projects
 - 🐹 I love using Go and I would like to eventually make some contributions to any Go-related projects
-- 🌱 I am currently learning game dev
+- 🌱 I am currently learning game dev with Odin
 - 🐉 I like building DnD related tools for my DM (he never asked for them)
 
 #### Fun Facts
