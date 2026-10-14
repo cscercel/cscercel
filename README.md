@@ -1,15 +1,16 @@
 ## Hi, I'm Cristian Cercel
 
 #### Work & Education
-- 🖥️ I've been working as an Actuary for 4 years at TD Insurance
-- 🔭 My job is to build, deploy and monitor ML models for P&C Insurance
-- 📊 I'm currently developping a web app to better monitor models in production
-- 📜 Graduated from the Univerity of Montreal with a Bachelor's in Mathematics
+- 🖥️ I work as an Actuary for the Accelerators team at TD Insurance
+- 🔭 My job is to build web apps to service our AI/ML models to the business.
+- 📊 I'm currently developing a web app to better monitor models in production
+- 📜 I graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
 - 🐹 I love using Go and I would like to eventually make some contributions to any Go-related projects
-- 🌱 I am currently learning game dev with Odin
+- 🌱 I am developing my own game with Odin + Raylib
 - 🐉 I like building DnD related tools for my DM (he never asked for them)
+- 🔥 Currently learning the Phoenix framework in Elixir for the love of the game
 
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
