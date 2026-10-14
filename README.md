@@ -15,4 +15,5 @@
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
 - 🏊 My 2nd favorite hobby is to go swim instead of becoming a gym bro
+- ⌨️ I use Vim, btw.
 - 🎮 Actively waiting for the revival of the Chaotic TCG (UPDATE October 2026!!!)
