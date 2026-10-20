@@ -1,9 +1,8 @@
 ## Hi, I'm Cristian Cercel
 
 #### Work & Education
-- 🖥️ I work as an Actuary for the Accelerators team at TD Insurance
+- 🖥️ I work as an Actuary at TD Insurance
 - 🔭 My job is to build web apps to service our AI/ML models to the business
-- 📊 I'm currently developing a web app to better monitor models in production
 - 📜 I graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
