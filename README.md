@@ -6,10 +6,9 @@
 - 📜 I graduated from the Univerity of Montreal with a Bachelor's in Mathematics
 
 #### Personal Projects
-- 🐹 I love using Go and I would like to eventually make some contributions to any Go-related projects
+- 🐹 I love using Go and Elixir for making APIs
 - 🌱 I am developing my own game with Odin + Raylib
 - 🐉 I like building DnD related tools for my DM (he never asked for them)
-- 🔥 Currently learning the Phoenix framework in Elixir for the love of the game
 
 #### Fun Facts
 - 🏐 My favorite hobby is playing volleyball and forcing my friends to play it too
